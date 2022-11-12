@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696250685169",
+    "project_id": "blogcrudflutter",
+    "storage_bucket": "blogcrudflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696250685169:android:edb4fa0b0c33bcf061bb50",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696250685169-he8nckkvk44g4i1g6ole6f0qs947ivsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUpRligCFqW7FEUHRDAr-RJRXCQEXwwxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696250685169-he8nckkvk44g4i1g6ole6f0qs947ivsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
